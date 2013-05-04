@@ -3,4 +3,4 @@ ff_prelude
 
 Final Fantasy prelude in ChucK
 
-ChucK (http://chuck.cs.princeton.edu/) is required to run the program
+ChucK/miniAudicle (http://audicle.cs.princeton.edu/mini/) is required to run the program
